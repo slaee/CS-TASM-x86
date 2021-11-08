@@ -1,9 +1,5 @@
-*/*.OBJ
-*/*.MAP
-*/*.EXE
-
-*.OBJ
-*.MAP
-*.EXE
-
 .gitignore
+
+*.obj
+*.map
+*.exe
