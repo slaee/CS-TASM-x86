@@ -5,3 +5,5 @@
 *.OBJ
 *.MAP
 *.EXE
+
+*.gitignore
