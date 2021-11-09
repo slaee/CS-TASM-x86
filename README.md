@@ -32,3 +32,36 @@ c:
 UTILS\init.BAT
 ```
 edit the CS-TASM-x86 if you have change the directory name after you exectracted it or where did you extract it. Then after that restart your dosbox then you are good to go.
+
+<br>
+<br>
+<br>
+
+> ## For Linux Machine
+
+### Step 1. 
+Install the dosbox using the apt installer
+```bash
+$ sudo apt-get install dosbox
+```
+After installation run the dosbox in your terminal
+```bash 
+$ dosbox
+```
+
+### Step 2. 
+Open a new terminal then at your home directory find the folder name .dosbox and cd it.
+Edit the `dosbox-0.74-3.conf` file, at the last line there is a comment there that you can put the executable commands for dosbox then paste this:
+```bash
+@ECHO OFF
+MOUNT C ~/CSTASM/
+c:
+UTILS\init.BAT
+```
+Edit the CSTASM directory name into your Assembly environment directory then save and rerun the dosbox
+
+### Step 3.
+# Happy Hacking !
+
+
+
