@@ -49,12 +49,19 @@ After installation run the dosbox in your terminal
 $ dosbox
 ```
 
+### Step 2.
+clone the repository in your home directory using the git command 
+
+```bash
+$ git clone https://github.com/slyg3nius/CS-TASM-x86.git
+```
+
 ### Step 2. 
 Open a new terminal then at your home directory find the folder name .dosbox and cd it.
 Edit the `dosbox-0.74-3.conf` file, at the last line there is a comment there that you can put the executable commands for dosbox then paste this:
 ```bash
 @ECHO OFF
-MOUNT C ~/CSTASM/
+MOUNT C ~/CS-TASM-x86/
 c:
 UTILS\init.BAT
 ```
