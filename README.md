@@ -14,7 +14,7 @@ If you don't have installed git, download the zip file under the
 `Code` green button
 
 ### Step 2.
-After you download the zip file create a folder for your Assembly environment and extract it there.
+After you downloaded the zip file create a folder for your Assembly environment and extract it there.
 
 ### Step 3.
 Run your dosbox first so that it will generate an appdata to your user local directory
