@@ -1,1 +1,1 @@
-PATH = Z:\;C:\UTILS;C:\debug125;C:\tasm
+PATH = Z:\;C:\UTILS;C:\debug;C:\tasm
