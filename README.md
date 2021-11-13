@@ -23,7 +23,7 @@ $ git clone https://github.com/slyg3nius/CS-TASM-x86.git
 
 ### Step 3. 
 Open a new terminal then at your home directory find the folder name .dosbox and cd it.
-Edit the `dosbox-0.74-3.conf` file, at the last line there is a comment there that you can put the executable commands for dosbox then paste this:
+Edit the `dosbox-0.74-3.conf` file, at the last line there is a comment that you can put the executable commands for dosbox then paste this:
 ```bash
 @ECHO OFF
 MOUNT C ~/CS-TASM-x86/
