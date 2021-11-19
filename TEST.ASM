@@ -5,7 +5,7 @@
 ;              with turbo assembly
 
 
-
+.8086 			; use 16 bits
 .model small
 .stack 100h
 
