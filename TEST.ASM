@@ -7,7 +7,7 @@
 
 .8086 			; use 16 bits
 .model small
-.stack 100h
+.stack 10
 
 .data
 	str1 db "..............$"
