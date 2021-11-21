@@ -1,3 +1,11 @@
+; Author: Sly Kint Bacalso
+; Date:   February 7, 2020
+; Modified By: Sly Kint Bacalso
+; Description: This will prints kali linux screen fetch and graphics programming
+;              with turbo assembly
+
+
+
 .model small
 .stack 100h
 
