@@ -1,6 +1,5 @@
-# ASSEMBLE YOUR BRAIN FIRST
+# ASSEMBLE FIRST
 
-> Are you done?
 
 # ![#00ff00](https://via.placeholder.com/15/00ff00/000000?text=+) Linux Machine
 
